@@ -1,2 +1,5 @@
-# java-kinesis-demo
-# java-kinesis-demo
+### Introduction
+
+A simple java AWS kinesis demo
+
+
